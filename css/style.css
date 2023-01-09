@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    font-family: Cursive;
+}
+.main-div{
+    background-color:dodgerblue;
+    height: 300vh;
+    width: 100%;
+}
+.first-div {
+    background-color:#393E46;
+    height:100vh;
+    width:100%;
+    background-size:cover ;
+}
+.header-div {
+    width:100%;
+    height: 10%;
+    /*background-color:#222831;*/
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 400px;
+}
+.header-div a {
+    color: white;
+    text-decoration: none;
+    padding-right: 100px;
+    font-family: cursive;
+    font-size:x-large;
+    padding-right: 30px;
+  
+    
+
+}
+.header-div a :hover {
+    color:dodgerblue;
+}
+.first-div-body {
+
+    width:100%;
+    height:90%;
+    text-align: center;
+    color: white;
+   
+
+}
+.first-div-body p {
+    text-align :center; 
+    width: 800px;
+    font-size: large;
+}
+
+.first-div-body button {
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    padding: 10px;
+    border-color: white;
+    font-size: small;
+    margin-top: 30px;
+
+}
+.first-div-body button:hover {
+    background-color: brown;
+}
+.first-div-body h1 {
+    font-size: 50px;
+    margin-top: 125px;
+}
+#logo {
+    position: absolute;
+    left:40px;
+    font-family: cursive;
+    font-size:x-large;
+    color: white;
+    font-size: xx-large;
+}
